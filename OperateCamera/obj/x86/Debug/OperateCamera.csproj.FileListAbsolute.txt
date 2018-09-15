@@ -1,0 +1,33 @@
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Controls.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Imaging.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.dll
+C:\Users\DELL\Downloads\OperateCamera\obj\x86\Debug\OperateCamera.exe
+C:\Users\DELL\Downloads\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+C:\Users\DELL\Desktop\OperateCamera\obj\x86\Debug\OperateCamera.exe
+C:\Users\DELL\Desktop\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+C:\Users\DELL\Desktop\OperateCamera\bin\Debug\OperateCamera.exe
+C:\Users\DELL\Desktop\OperateCamera\bin\Debug\AForge.Controls.dll
+C:\Users\DELL\Desktop\OperateCamera\bin\Debug\AForge.dll
+C:\Users\DELL\Desktop\OperateCamera\bin\Debug\AForge.Imaging.dll
+C:\Users\DELL\Desktop\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\DELL\Desktop\OperateCamera\bin\Debug\AForge.Video.dll
+C:\Users\DELL\Desktop\OperateCamera\bin\Debug\AForge.Math.dll
+C:\Users\DELL\Desktop\OperateCamera\bin\Debug\AForge.Math.xml
+C:\Users\DELL\Desktop\OperateCamera\obj\x86\Debug\OperateCamera.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+C:\Users\DELL\Desktop\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+C:\Users\DELL\Desktop\OperateCamera\obj\x86\Debug\OperateCamera.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\OperateCamera\bin\Debug\OperateCamera.pdb
+C:\Users\DELL\Desktop\图像识别国创相关附件（中期）\识别软件\OperateCamera\obj\x86\Debug\OperateCamera.exe
+C:\Users\DELL\Desktop\图像识别国创相关附件（中期）\识别软件\OperateCamera\obj\x86\Debug\OperateCamera.pdb

@@ -1,0 +1,8 @@
+OperateCamera文件夹内是摄像头操作程序
+The_Project_1.0文件夹内是Arduino程序
+Communication.m position.m Robot_Arm.m是matlab图像识别及左边转换程序
+
+1.OperateCamera程序内需要将调用Matlab的地址改为Robo_Arm.m的完整地址
+2.Robot_Arm.m内图片读取地址需改为 OperateCamera\bin\Debug\PersonImg的完整地址
+3.将The_Project_1.0烧录进Arduino。
+4.打开\OperateCamera\bin\Debug\OperateCamera.exe调好摄像头后点击拍照开始执行
